@@ -1,3 +1,1 @@
-#!/bin/bash
-su betty
-why?
+My name is betty
